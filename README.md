@@ -1,6 +1,15 @@
 # 💫 About Me:
-👋 Hi, I'm Vasanth Shastri!<br><br>👨‍💻 Data Analyst with a passion for turning data into actionable insights.<br><br>🎓 Currently pursuing an M.S. in Computer Science with a focus on Data Science at Oklahoma City University.<br><br>📊 Sharing my projects on data analysis, machine learning, and visualization.<br><br>🌱 Currently learning about advanced data visualization techniques and statistical analysis methods.<br><br>💬 Feel free to ask me about my experiences in data analysis, machine learning projects, or effective data storytelling!
+👋 Hello, I'm Vasanth Shastri!
 
+👨‍💻 I am a dedicated Data Analyst specializing in transforming complex data into strategic insights that drive business growth.
+
+🎓 Currently advancing my expertise with an M.S. in Computer Science, focusing on Data Science at Oklahoma City University, where I blend theoretical knowledge with practical applications.
+
+📊 I actively share innovative projects in data analysis, machine learning, and data visualization, showcasing my ability to leverage data for impactful decision-making.
+
+🌱 I am currently enhancing my skills in advanced data visualization techniques and statistical analysis methods, continuously striving to deepen my understanding of data-driven storytelling.
+
+💬 I welcome discussions on my diverse experiences in data analysis, collaborative machine learning initiatives, and best practices in effective data communication!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vasanth-shastri/) 
